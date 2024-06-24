@@ -28,5 +28,6 @@ The project is implemented using Python and the following key libraries:
 ## Requirements
 
 - Python 3.x
+- [Whisper](https://github.com/openai/whisper)
 - [MoviePy](https://github.com/Zulko/moviepy)
 - [FFmpeg](https://ffmpeg.org/download.html)
